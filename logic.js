@@ -1,6 +1,4 @@
 console.log("Welcome to WPM Test Console")
-// // 
-// which few living creatures can do. A nocturnal gecko's eye structure is different from that of other lizards. Most vertebrates have two kinds of cells in their eyes that sense light. These are called rods and cones
 
 const setOfWords = [ "which few living creatures can do. A nocturnal gecko's eye structure is different from that of other lizards. Most vertebrates have two kinds of cells in their eyes that sense light. These are called rods and cones","We and our partners process your personal data, e.g. your IP-number, using technology such as cookies to store and access information on your device in order to serve personalized ads and content, ad and content measurement, audience insights and product development. You have a choice in who uses your data and for what purposes.","hello you the am i was done the storm have interject in done have want the all prevention  you jazz the increase want read for program os import *" ];
 
